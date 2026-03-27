@@ -1,2 +1,2 @@
 # customer-intelligence-platform-Early-Warning
-DWH (Snowflake/Databricks) sourced integration, transformation and standardization for ML based CHS and Churn model
+End-to-End Customer Health Score & Churn Prediction Model using Snowflake & Totango
